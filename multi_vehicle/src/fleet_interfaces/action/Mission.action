@@ -1,0 +1,10 @@
+float64 target_x
+float64 target_y
+string mode
+---
+bool success
+string message
+---
+float32 progress
+float64 x
+float64 y

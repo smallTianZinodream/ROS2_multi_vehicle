@@ -1,0 +1,9 @@
+string vehicle_id
+string kind
+float64 x
+float64 y
+float64 yaw
+bool idle
+float32 battery
+float32 progress
+string phase
